@@ -5,6 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+- First loading the data and dislaying in writer component
+- Add a event handler in common parent file and passing through props that event function to child component by calling that function we sending data again to parent 
+- Reduce function used for calculating the total and for the selected writer also need state 
+- using map we can access an array easily 
 
 
 ### `yarn start`
