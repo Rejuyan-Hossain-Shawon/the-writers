@@ -5,7 +5,12 @@ This project was bootstrapped with [The Writers Commitee](https://rejuyan-hossai
 ## Available Scripts
 
 In the project directory, you can run:
-
+-First I have designed a the web sites components
+-Then I go with the header components 
+- After header the main part of this react app is writers you can also called it main section. Here i used useState and useEffect hooks 
+-By writer component i display the object file 
+-After that i create a state in common parent file means writers section and also an event handling function and pass to child as props
+-after successfully event handle adding i captured the response of event handler and pass it selected list child normally and show that data
 
 
 ### `yarn start`
