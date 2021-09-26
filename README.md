@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# Getting Started with Create  React App The Writer Commitee
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [The Writers Commitee](https://rejuyan-hossain-shawon-the-writer-commitee.netlify.app/).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+
 
 ### `yarn start`
 
