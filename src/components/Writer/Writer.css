@@ -1,0 +1,23 @@
+.container-writer{
+    display: flex;
+    flex-direction: column;
+    opacity:0.9 ;
+    background-color: lightblue;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.container img{
+    width: 250px;
+    height: 200px;
+    
+}
+.btn-regular{
+    width: 150px;
+    line-height: 30px;
+    font-size: 17px;
+    border-radius: 10px;
+    color: blueviolet;
+    background-color: rgba(16, 241, 241, 0.753);
+}

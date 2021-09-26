@@ -1,7 +1,7 @@
 [
   {
     "_id": "615040a9fff2aecd6efa50e4",
-    "salary": "$1,860.19",
+    "salary": 186019,
     "picture": "https://149645218.v2.pressablecdn.com/wp-content/uploads/2015/04/charles-dickens-photograph.jpg",
     "age": 29,
     "name": "Graciela Carr",
@@ -11,7 +11,7 @@
   },
   {
     "_id": "615040a99de3aa66204cc4c4",
-    "salary": "$3,226.03",
+    "salary": 322603,
     "picture": "https://images.saymedia-content.com/.image/t_share/MTc0NjQ3OTU5NzIyNjY1NzQz/top-10-living-writers-of-the-world.jpg",
     "age": 24,
     "name": "Meagan Stuart",
@@ -21,7 +21,7 @@
   },
   {
     "_id": "615040a9dfdb7bc15f0fd4a0",
-    "salary": "$3,052.13",
+    "salary": 305213,
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLjwQN69yYRvYAwJVGbnpi7kxJEQK12BZpliz8kEV2z383UAsQRGkoDepkd_0UiYC2sj8&usqp=CAU",
     "age": 38,
     "name": "Christi Hewitt",
@@ -31,7 +31,7 @@
   },
   {
     "_id": "615040a993a1e79d58f7a490",
-    "salary": "$2,436.24",
+    "salary": 43624,
     "picture": "https://i.insider.com/57ce87acdd089588528b46e4?width=750&format=jpeg&auto=webp",
     "age": 38,
     "name": "Cantrell Becker",
@@ -41,7 +41,7 @@
   },
   {
     "_id": "615040a9d1625f2f82853373",
-    "salary": "$3,109.87",
+    "salary": 10987,
     "picture": "https://qph.fs.quoracdn.net/main-qimg-dbae9f8b8b9d556920a4164997833b99-c",
     "age": 29,
     "name": "Dorothy Fitzpatrick",
@@ -51,7 +51,7 @@
   },
   {
     "_id": "615040a915eda79525375a0a",
-    "salary": "$2,417.28",
+    "salary": 241728,
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq4QqNeWMX_nFrpIDbvM_L4vAX-UV12pwtxQ&usqp=CAU",
     "age": 32,
     "name": "King Heath",
@@ -61,7 +61,7 @@
   },
   {
     "_id": "615040a9c0a5c74ccba297b8",
-    "salary": "$1,513.01",
+    "salary": 151301,
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxh0NGot2RV5d34BzVK4H3Bq7axK0Fsx5hSA&usqp=CAU",
     "age": 31,
     "name": "Chambers Case",
@@ -71,7 +71,7 @@
   },
   {
     "_id": "615040a96e781095d1ea437f",
-    "salary": "$3,521.53",
+    "salary": 35215,
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo6f18s_88LkdLElajPKjuXGJzMMu7NOoTig&usqp=CAU",
     "age": 32,
     "name": "Herring Lott",
@@ -81,7 +81,7 @@
   },
   {
     "_id": "615040a996b5f27c4e466f90",
-    "salary": "$1,342.43",
+    "salary": 134243,
     "picture": "https://www.writerscollegeblog.com/wp-content/uploads/2017/01/michaelrobotham.jpg",
     "age": 36,
     "name": "Adela Crosby",
@@ -91,7 +91,7 @@
   },
   {
     "_id": "615040a9fe5fca09b7ab484d",
-    "salary": "$2,545.21",
+    "salary": 254521,
     "picture": "https://www.topcount.co/wp-content/uploads/2015/10/httpes.web_.img2_.acsta_.netr_640_600b_1_d6d6d6mediasnmedia1888717020001310.jpg",
     "age": 33,
     "name": "Fletcher Frederick",
