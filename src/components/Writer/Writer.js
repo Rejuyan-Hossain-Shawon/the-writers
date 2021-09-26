@@ -19,7 +19,7 @@ const Writer = (props) => {
                 <p>Salary: ${salary}</p>
                 <p>Age: {age}</p>
                 <p>Phone: {phone} <a href={email}>{emailIcon}</a></p>
-                <button className="btn-regular">{userIcon} Select</button>
+                <button onClick={() => props.handleSelect(props.writer)} className="btn-regular">{userIcon} Select</button>
 
 
             </div>
