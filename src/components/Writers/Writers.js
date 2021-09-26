@@ -19,7 +19,7 @@ const Writers = () => {
         const exist = selected.find(selectedWriter => selectedWriter._id === writer._id);
 
         if (exist) {
-
+            alert("You cant Add a writer Twice");
         }
         else {
             const newSelected = [...selected, writer];
@@ -33,7 +33,7 @@ const Writers = () => {
     return (
         <div className="container">
             <div>
-                <h2>Total Writers:{writers.length}</h2>
+                <h2 className="title">Total Writers:{writers.length}</h2>
                 <div className="writers-grid">
                     {
                         writers.map(writer => <Writer handleSelect={handleSelect} key={writer._id} writer={writer}></Writer>)
@@ -43,8 +43,8 @@ const Writers = () => {
 
             </div>
             <div className="selected-list">
-                <h2>Writer Added: {selected.length}</h2>
-                <h2>Total Expenses:{total}</h2>
+                <h2 className="select-title">Writer Added: {selected.length}</h2>
+                <h2 className="select-title">Total Expenses:{total}</h2>
                 {
                     selected.map(select => <SelectedList key={select._id} writer={select}></SelectedList>)
                 }

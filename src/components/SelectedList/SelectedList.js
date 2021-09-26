@@ -2,12 +2,12 @@ import React from 'react';
 import "./SelectedList.css"
 
 const SelectedList = (props) => {
-    console.log(props);
+
     const { name, picture } = props.writer;
     return (
         <div className="selected-element">
-            {/* <img className="select-img" src={picture} alt="" /> */}
-            <h3>{name}</h3>
+            <img className="cover" src={picture} alt="" />
+            <h2>{name}</h2>
         </div>
     );
 };

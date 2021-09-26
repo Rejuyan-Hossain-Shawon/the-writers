@@ -3,6 +3,12 @@
     grid-template-columns: 3fr 1fr;
     
 }
+.title{
+    color: rgb(32, 32, 241);
+    font-weight: bolder;
+    font-size: 30px;
+    margin-left: 100px;
+}
 .writers-grid{
    display: grid;
    grid-template-columns: repeat(3,1fr);
@@ -10,4 +16,12 @@
    margin-right: 10px;
    grid-gap: 5px;
    padding: 5px;
+}
+.selected-list{
+    margin-top: 100px;
+    /* border: 3px solid slateblue; */
+}
+.select-title{
+   background-color:   darkkhaki;
+  
 }

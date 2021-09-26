@@ -1,7 +1,7 @@
 .container-writer{
     display: flex;
     flex-direction: column;
-    opacity:0.9 ;
+    opacity:.9 ;
     background-color: lightblue;
     text-align: center;
     padding: 10px;
